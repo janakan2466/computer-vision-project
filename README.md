@@ -11,11 +11,8 @@ The experimental methodology employed in this project focuses on the American Si
 3. **Gaussian Noise Removal:** Enhance reliability by smoothing edges through noise reduction.
 4. **Otsu’s Thresholding and Inverted Binary Thresholding:** Analyze intensity distribution for effective image segmentation.
 5. **Canny Edge Detection:** Identify hand boundaries in the frame.
-6. **Contour Extraction:** Determine the Region of Interest (ROI) using contour analysis.
-7. **Boundary Boxing and Aspect Ratio Filtering:** Identify the hand area within contours.
-8. **Convex Hull and Convexity Defects:** Utilize identified contours to find the Convex Hull, revealing convexity defects.
-9. **CNN for Gesture Classification:** Pair gestures using a Convolutional Neural Network.
-10. **Evaluate Metrics:** Assess model performance using metrics such as Accuracy, Precision, F1 Score, ROC Curve, and Confusion Matrix.
+6. **CNN for Gesture Classification:** Pair gestures using a Convolutional Neural Network.
+7. **Evaluate Metrics:** Assess model performance using metrics such as Accuracy, Precision, F1 Score, ROC Curve, and Confusion Matrix.
 
 ## Example
 To illustrate our methodology, consider the ASL Alphabet dataset, where each gesture represents a distinct sign in American Sign Language. The algorithm processes these gestures, identifies hand forms, and utilizes CNN to classify and pair them accurately.
