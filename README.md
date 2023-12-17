@@ -1,4 +1,4 @@
-# A Computer Vision Project: Hand Gesture Recognition Systems
+# Computer Vision: Hand Gesture Recognition Systems
 
 ## Abstract
 In the realm of human-computer interaction, the quest for more accessible communication methods has driven the development of Hand Gesture Recognition Systems. This project aims to contribute to this advancement by creating a detection system capable of recognizing hand forms through a combination of carefully crafted preprocessing algorithms and the utilization of Convolutional Neural Networks (CNNs) for image classification.
