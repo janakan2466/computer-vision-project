@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Sivaloganathan"
+  given-names: "Janakan"
+  orcid: "https://orcid.org/0009-0005-8722-1459"
+- family-names: "Sivarajah"
+  given-names: "Mithushan"
+- family-names: "Preshanthan"
+  given-names: "Dhaarshan"
+title: "A Hand Gesture Recognition System Analysis"
+version: "1.0.0"
+date-released: 2023-12-17 
+url: "https://github.com/janakan2466/computer-vision-project"
+preferred-citation:
+  type: report
+  authors:
+  - family-names: "Sivaloganathan"
+    given-names: "Janakan"
+    orcid: "https://orcid.org/0009-0005-8722-1459"
+  - family-names: "Sivarajah"
+    given-names: "Mithushan"
+  - family-names: "Preshanthan"
+    given-names: "Dhaarshan"
+  title: "A Hand Gesture Recognition System Analysis"
+  year: 2023

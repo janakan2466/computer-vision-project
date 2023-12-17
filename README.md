@@ -20,3 +20,6 @@ To illustrate our methodology, consider the ASL Alphabet dataset, where each ges
 ## Dataset & References
 - [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data) - Image dataset for alphabets in the American Sign Language.
 
+<br>
+
+*A Brief Technical Report*
